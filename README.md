@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Moulaye-dagnon/pricing-component-react.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://pricing-component-react-moulaye-dagnon.vercel.app/)
 
 ### My process
 - Mobile first
