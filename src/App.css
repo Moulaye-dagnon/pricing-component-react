@@ -1,0 +1,39 @@
+img{
+	width: 100%;
+	height: 100%;
+}
+.container{
+	text-align: center;
+	padding: 0 25px;
+	background: top right url(../public/images/bg-top.svg) no-repeat , bottom left url(../public/images/bg-bottom.svg) no-repeat ;
+	padding-top: 40px;
+	max-width: 1440px;
+	margin: 0 auto;
+}
+.type-price{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.choose_btn{
+	width: 56px;
+	height: 32px;
+	border: none;
+	padding: 0;
+	background-color: transparent;
+	margin: 0 24px;
+}
+.card-container{
+	margin: 70px 0 ;
+}
+@media only screen and (min-width : 1000px) {
+	.container{
+		padding-top: 60px ;
+	}
+	.card-container{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}
